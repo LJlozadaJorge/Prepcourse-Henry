@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba de mod 2 de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo a mi rep local
